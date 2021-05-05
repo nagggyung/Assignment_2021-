@@ -17,7 +17,7 @@ int main() {
               value++;
         }
     }
-    printf("n의 값을 입력하세요: ");
+    printf("Type integer n: ");
     scanf_s("%d", &n);
     printf("%d\n", A[n]);
     return 0;

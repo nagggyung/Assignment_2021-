@@ -1,3 +1,3 @@
-# ICPC_Seoul_2019_A-
+# Studying-Coding 
 
 Mainly studying Python, Algorithm 

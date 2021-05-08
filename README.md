@@ -1,3 +1,3 @@
-# Studying-Coding 
+# Studying-Coding & Algorithm 
 
-Mainly studying Python, Algorithm 
+Mainly studying Python, Java, Algorithm(using Python) 

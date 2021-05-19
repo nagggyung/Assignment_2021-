@@ -1,3 +1,3 @@
-# Studying-Coding & Algorithm 
+# Assignment 
 
-Mainly studying Python, Java, Algorithm(using Python), C++
+Mainly using JAVA

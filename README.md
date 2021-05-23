@@ -1,3 +1,4 @@
 # Assignment in 2021 
 
-Mainly using JAVA, C, Python
+Assignment in 2021 from the university  
+mainly using Java, C, Python
